@@ -1,6 +1,6 @@
 #  Simulation_sample_Normal_distribution
 
-![](pictures/ne.png)
+![](ne.png)
 
 
 
