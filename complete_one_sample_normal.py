@@ -27,6 +27,6 @@ def random_normal1(p):
 
 
 
-print(random_normal1(3))
+
 
 
